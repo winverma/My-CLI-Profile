@@ -53,3 +53,26 @@ Update the name feild in package.json file , example
 Publish
 
 npm publish
+
+
+Next Steps:
+✅ Verify the package on NPM
+Run:
+
+sh
+Copy
+Edit
+npm view winv
+Or check it out directly at:
+🔗 https://www.npmjs.com/package/winv
+
+✅ Install it locally to test
+
+sh
+Copy
+Edit
+npm install winv
+✅ Share it
+If you want others to use it, you can share the NPM link and usage instructions in your GitHub README.
+
+Let me know if you need any tweaks or enhancements! 🔥
