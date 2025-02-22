@@ -6,16 +6,13 @@
 
 Preview:
 
-Run
-
-npx win
-on any nodejs terminal to see the preview
+Run npx win on any nodejs terminal to see the preview
 
 Create your own:
 
 Installation:
 
-Clone the repo - git clone https://github.com/winverma
+Clone the repo - git clone https://github.com/winverma/
 
 Install NPM packages:
 
@@ -35,7 +32,7 @@ Run:
 
 Or check it out directly at:
 
-## 🔗 https://www.npmjs.com/package/winv
+### 🔗 https://www.npmjs.com/package/winv
 
 ## ✅ Install it locally to test
 
