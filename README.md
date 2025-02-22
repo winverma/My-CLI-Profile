@@ -4,7 +4,8 @@ Profile Card
 Create an awesome terminal profile-card that can be used in any node js environment.
 
 
-Preview
+Preview:
+
 Run
 
 npx win
