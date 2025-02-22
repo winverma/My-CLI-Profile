@@ -1,0 +1,22 @@
+{
+  "info": {
+    "name": "Win",
+    "title": "Verma"
+  },
+  "links": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/win-electrifier"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/winverma"
+    }
+  ],
+  "style": {
+    "corner": "plus",
+    "border": "base",
+    "baseColor": "White",
+    "accentColor": "Blue"
+  }
+}

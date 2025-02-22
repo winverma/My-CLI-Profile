@@ -1,0 +1,44 @@
+{
+  "name": "winv",
+  "version": "1.1.5",
+  "description": "",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "bin": {
+    "win": "dist/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "create": "node src/generator/generate",
+    "build": "parcel build src/index.js --target node --no-source-maps",
+    "generate": "node src/generator/generate",
+    "start:prod": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winverma"
+  },
+  "author": "Win Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winverma"
+  },
+  "homepage": "https://github.com/winverma",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-clean-dist": "^0.0.6",
+    "parcel-plugin-shebang": "^1.4.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.0.0",
+    "win": "file:",
+    "Win": "file:",
+    "winv": "file:"
+  }
+}

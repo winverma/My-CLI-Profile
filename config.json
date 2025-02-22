@@ -1,0 +1,30 @@
+{
+  "info": {
+    "name": "Win Verma",
+    "title": "Frontend Developer"
+  },
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.win-verma.netlify.app/"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/winverma"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/win-electrifier/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/electrifierxx"
+    }
+  ],
+  "style": {
+    "corner": "premium",
+    "border": "base",
+    "baseColor": "white",
+    "accentColor": "cyan"
+  }
+}
